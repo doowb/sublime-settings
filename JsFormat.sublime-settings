@@ -1,0 +1,9 @@
+{
+	// exposed jsbeautifier options
+	"max_preserve_newlines": 2,
+	"jslint_happy": true,
+	"keep_array_indentation": true,
+
+	// jsformat options
+	"format_on_save": false
+}

@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"CodeFormatter",
+		"CSS Format",
+		"DocBlockr",
+		"EsFormatter",
+		"GitGutter",
+		"Handlebars",
+		"JsFormat",
+		"LESS",
+		"Markdown Extended",
+		"Monokai Extended",
+		"SideBarEnhancements",
+		"SimpleCSSFormat",
+		"SublimeCodeIntel"
+	]
+}
